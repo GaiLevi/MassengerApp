@@ -1,0 +1,5 @@
+3,guy,Guy Levi,123456,GUY@example.com,male,555-1234
+4,janedoe,Jane Doe,password,janedoe@example.com,female,555-5678
+
+1,yair,yair buryak,123456,yair@gmail.com,Male,057894563
+1,nissim,nissim,123456,nissim@gmail.com,Male,0560678945
